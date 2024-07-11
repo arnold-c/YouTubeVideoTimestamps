@@ -40,3 +40,6 @@ Contents
 10:21:00 Wrap-up announcements
 
 Code Links:
+Secure numerical computations: https://github.com/hpsc-lab/OpenFHE.jl
+JuliaScript.jl: https://github.com/jolin-io/JuliaScript.jl
+Materials Modeling: https://github.com/JuliaMolSim?q=&type=all&language=&sort=stargazers
